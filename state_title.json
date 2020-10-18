@@ -1,19 +1,19 @@
 [
     {
         "State": "Alabama",
-        "Alabama_abbreviation": "AL"
+        "Alabama": "AL"
     },
     {
         "State": "Alaska",
-        "Alaska_abbreviation": "AK"
+        "Alaska": "AK"
     },
     {
         "State": "American Samoa",
-        "American Samoa_abbreviation": "AS"
+        "American Samoa": "AS"
     },
     {
         "State": "Arizona",
-        "Arizona_abbreviation": "AZ"
+        "Arizona": "AZ"
     },
     {
         "State": "Arkansas",
@@ -21,11 +21,11 @@
     },
     {
         "State": "California",
-        "California_abbreviation": "CA"
+        "California": "CA"
     },
     {
         "State": "Colorado",
-        "Colorado_abbreviation": "CO"
+        "Colorado": "CO"
     },
     {
         "State": "Connecticut",
