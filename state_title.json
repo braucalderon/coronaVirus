@@ -1,67 +1,67 @@
 [
     {
         "State": "Alabama",
-        "Alabama": "AL"
+        "state": "AL"
     },
     {
         "State": "Alaska",
-        "Alaska": "AK"
+        "state": "AK"
     },
     {
         "State": "American Samoa",
-        "American Samoa": "AS"
+        "state": "AS"
     },
     {
         "State": "Arizona",
-        "Arizona": "AZ"
+        "state_id": "AZ"
     },
     {
         "State": "Arkansas",
-        "Arkansas_abbreviation": "AR"
+        "state_id": "AR"
     },
     {
         "State": "California",
-        "California": "CA"
+        "state_id": "CA"
     },
     {
         "State": "Colorado",
-        "Colorado": "CO"
+        "state_id": "CO"
     },
     {
         "State": "Connecticut",
-        "Connecticut": "CT"
+        "state_id": "CT"
     },
     {
         "State": "Delaware",
-        "Delaware": "DE"
+        "state_id": "DE"
     },
     {
         "State": "District Of Columbia",
-        "District Of Columbia": "DC"
+        "state_id": "DC"
     },
     {
         "State": "Federated States Of Micronesia",
-        "Federated States Of Micronesia": "FM"
+        "state_id": "FM"
     },
     {
         "State": "Florida",
-        "Florida": "FL"
+        "state_id": "FL"
     },
     {
         "State": "Georgia",
-        "Georgia": "GA"
+        "state_id": "GA"
     },
     {
         "State": "Guam",
-        "Guam": "GU"
+        "state_id": "GU"
     },
     {
         "State": "Hawaii",
-        "Hawaii": "HI"
+        "state_id": "HI"
     },
     {
         "State": "Idaho",
-        "Idaho": "ID"
+        "state_id": "ID"
     },
     {
         "State": "Illinois",
@@ -73,7 +73,7 @@
     },
     {
         "State": "Iowa",
-        "Iowa": "IA"
+        "state_id": "IA"
     },
     {
         "State": "Kansas",
@@ -81,15 +81,15 @@
     },
     {
         "State": "Kentucky",
-        "Kentucky": "KY"
+        "state_id": "KY"
     },
     {
         "State": "Louisiana",
-        "Louisiana": "LA"
+        "state_id": "LA"
     },
     {
         "State": "Maine",
-        "Maine": "ME"
+        "state_id": "ME"
     },
     {
         "State": "Marshall Islands",
@@ -97,142 +97,142 @@
     },
     {
         "State": "Maryland",
-        "Maryland": "MD"
+        "state_id": "MD"
     },
     {
         "State": "Massachusetts",
-        "Massachusetts": "MA"
+        "state_id": "MA"
     },
     {
         "State": "Michigan",
-        "Michigan": "MI"
+        "state_id": "MI"
     },
     {
         "State": "Minnesota",
-        "Minnesota": "MN"
+        "state_id": "MN"
     },
     {
         "State": "Mississippi",
-        "Mississippi": "MS"
+        "state_id": "MS"
     },
     {
         "State": "Missouri",
-        "Missouri": "MO"
+        "state_id": "MO"
     },
     {
         "State": "Montana",
-        "Montana": "MT"
+        "state_id": "MT"
     },
     {
         "State": "Nebraska",
-        "Nebraska": "NE"
+        "state_id": "NE"
     },
     {
         "State": "Nevada",
-        "Nevada": "NV"
+        "state_id": "NV"
     },
     {
         "State": "New Hampshire",
-        "New Hampshire": "NH"
+        "state_id": "NH"
     },
     {
         "State": "New Jersey",
-        "New Jersey": "NJ"
+        "state_id": "NJ"
     },
     {
         "State": "New Mexico",
-        "New Mexico": "NM"
+        "state_id": "NM"
     },
     {
         "State": "New York",
-        "New York": "NY"
+        "state_id": "NY"
     },
     {
         "State": "North Carolina",
-        "North Carolina": "NC"
+        "state_id": "NC"
     },
     {
         "State": "North Dakota",
-        "North Dakota": "ND"
+        "state_id": "ND"
     },
     {
         "State": "Northern Mariana Islands",
-        "Northern Mariana Islands": "MP"
+        "state_id": "MP"
     },
     {
         "State": "Ohio",
-        "Ohio": "OH"
+        "state_id": "OH"
     },
     {
         "State": "Oklahoma",
-        "Oklahoma": "OK"
+        "state_id": "OK"
     },
     {
         "State": "Oregon",
-        "Oregon": "OR"
+        "state_id": "OR"
     },
     {
         "State": "Palau",
-        "Palau": "PW"
+        "state_id": "PW"
     },
     {
         "State": "Pennsylvania",
-        "Pennsylvania": "PA"
+        "state_id": "PA"
     },
     {
         "State": "Puerto Rico",
-        "Puerto Rico": "PR"
+        "state_id": "PR"
     },
     {
         "State": "Rhode Island",
-        "Rhode Island": "RI"
+        "state_id": "RI"
     },
     {
         "State": "South Carolina",
-        "South Carolina": "SC"
+        "state_id": "SC"
     },
     {
         "State": "South Dakota",
-        "South Dakota": "SD"
+        "state_id": "SD"
     },
     {
         "State": "Tennessee",
-        "Tennessee": "TN"
+        "state_id": "TN"
     },
     {
         "Texas": "Texas",
-        "Texas_abbreviation": "TX"
+        "state_id": "TX"
     },
     {
         "State": "Utah",
-        "Utah": "UT"
+        "state_id": "UT"
     },
     {
         "State": "Vermont",
-        "Vermont": "VT"
+        "state_id": "VT"
     },
     {
         "State": "Virgin Islands",
-        "Virgin Islands": "VI"
+        "state_id": "VI"
     },
     {
         "State": "Virginia",
-        "Virginia": "VA"
+        "state_id": "VA"
     },
     {
         "State": "Washington",
-        "Washington": "WA"
+        "state_id": "WA"
     },
     {
         "State": "West Virginia",
-        "West Virginia": "WV"
+        "state_id": "WV"
     },
     {
         "State": "Wisconsin",
-        "Wisconsin": "WI"
+        "state_id": "WI"
     },
     {
         "State": "Wyoming",
-        "Wyoming": "WY"
+        "state_id": "WY"
     }
 ]
