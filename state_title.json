@@ -234,5 +234,9 @@
     {
         "State": "Wyoming",
         "state_id": "WY"
+    },
+    {
+        "State": "Alaska",
+        "state_id": "AK"
     }
 ]
