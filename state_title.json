@@ -1,238 +1,238 @@
 [
     {
-        "Alabama": "Alabama",
+        "State": "Alabama",
         "Alabama_abbreviation": "AL"
     },
     {
-        "Alaska": "Alaska",
+        "State": "Alaska",
         "Alaska_abbreviation": "AK"
     },
     {
-        "American Samoa": "American Samoa",
+        "State": "American Samoa",
         "American Samoa_abbreviation": "AS"
     },
     {
-        "Arizona": "Arizona",
+        "State": "Arizona",
         "Arizona_abbreviation": "AZ"
     },
     {
-        "Arkansas": "Arkansas",
+        "State": "Arkansas",
         "Arkansas_abbreviation": "AR"
     },
     {
-        "California": "California",
+        "State": "California",
         "California_abbreviation": "CA"
     },
     {
-        "Colorado": "Colorado",
+        "State": "Colorado",
         "Colorado_abbreviation": "CO"
     },
     {
-        "Connecticut": "Connecticut",
-        "Connecticut_abbreviation": "CT"
+        "State": "Connecticut",
+        "Connecticut": "CT"
     },
     {
-        "Delaware": "Delaware",
-        "Delaware_abbreviation": "DE"
+        "State": "Delaware",
+        "Delaware": "DE"
     },
     {
-        "District Of Columbia": "District Of Columbia",
-        "District Of Columbia_abbreviation": "DC"
+        "State": "District Of Columbia",
+        "District Of Columbia": "DC"
     },
     {
-        "Federated States Of Micronesia": "Federated States Of Micronesia",
-        "Federated States Of Micronesia_abbreviation": "FM"
+        "State": "Federated States Of Micronesia",
+        "Federated States Of Micronesia": "FM"
     },
     {
-        "Florida": "Florida",
-        "Florida_abbreviation": "FL"
+        "State": "Florida",
+        "Florida": "FL"
     },
     {
-        "Georgia": "Georgia",
-        "Georgia_abbreviation": "GA"
+        "State": "Georgia",
+        "Georgia": "GA"
     },
     {
-        "Guam": "Guam",
-        "Guam_abbreviation": "GU"
+        "State": "Guam",
+        "Guam": "GU"
     },
     {
-        "Hawaii": "Hawaii",
-        "Hawaii_abbreviation": "HI"
+        "State": "Hawaii",
+        "Hawaii": "HI"
     },
     {
-        "Idaho": "Idaho",
-        "Idaho_abbreviation": "ID"
+        "State": "Idaho",
+        "Idaho": "ID"
     },
     {
-        "Illinoi": "Illinois",
-        "Illinoi_abbreviation": "IL"
+        "State": "Illinois",
+        "Illinois": "IL"
     },
     {
-        "Indiana": "Indiana",
-        "Indiana_abbreviation": "IN"
+        "State": "Indiana",
+        "Indiana": "IN"
     },
     {
-        "Iowa": "Iowa",
-        "Iowa_abbreviation": "IA"
+        "State": "Iowa",
+        "Iowa": "IA"
     },
     {
-        "Kansas": "Kansas",
-        "Kansas_abbreviation": "KS"
+        "State": "Kansas",
+        "Kansas": "KS"
     },
     {
-        "Kentucky": "Kentucky",
-        "Kentucky_abbreviation": "KY"
+        "State": "Kentucky",
+        "Kentucky": "KY"
     },
     {
-        "Louisiana": "Louisiana",
-        "Louisiana_abbreviation": "LA"
+        "State": "Louisiana",
+        "Louisiana": "LA"
     },
     {
-        "Maine": "Maine",
-        "Maine_abbreviation": "ME"
+        "State": "Maine",
+        "Maine": "ME"
     },
     {
-        "Marshall Islands": "Marshall Islands",
-        "Marshall Islands_abbreviation": "MH"
+        "State": "Marshall Islands",
+        "Marshall Islands": "MH"
     },
     {
-        "Maryland": "Maryland",
-        "Maryland_abbreviation": "MD"
+        "State": "Maryland",
+        "Maryland": "MD"
     },
     {
-        "Massachusetts": "Massachusetts",
-        "Massachusetts_abbreviation": "MA"
+        "State": "Massachusetts",
+        "Massachusetts": "MA"
     },
     {
-        "Michigan": "Michigan",
-        "Michigan_abbreviation": "MI"
+        "State": "Michigan",
+        "Michigan": "MI"
     },
     {
-        "Minnesota": "Minnesota",
-        "Minnesota_abbreviation": "MN"
+        "State": "Minnesota",
+        "Minnesota": "MN"
     },
     {
-        "Mississippi": "Mississippi",
-        "Mississippi_abbreviation": "MS"
+        "State": "Mississippi",
+        "Mississippi": "MS"
     },
     {
-        "Missouri": "Missouri",
-        "Missouri_abbreviation": "MO"
+        "State": "Missouri",
+        "Missouri": "MO"
     },
     {
-        "Montana": "Montana",
-        "Montana_abbreviation": "MT"
+        "State": "Montana",
+        "Montana": "MT"
     },
     {
-        "Nebraska": "Nebraska",
-        "Nebraska_abbreviation": "NE"
+        "State": "Nebraska",
+        "Nebraska": "NE"
     },
     {
-        "Nevada": "Nevada",
-        "Nevada_abbreviation": "NV"
+        "State": "Nevada",
+        "Nevada": "NV"
     },
     {
-        "New Hampshire": "New Hampshire",
-        "New Hampshire_abbreviation": "NH"
+        "State": "New Hampshire",
+        "New Hampshire": "NH"
     },
     {
-        "New Jersey": "New Jersey",
-        "New Jersey_abbreviation": "NJ"
+        "State": "New Jersey",
+        "New Jersey": "NJ"
     },
     {
-        "New Mexico": "New Mexico",
-        "New Mexico_abbreviation": "NM"
+        "State": "New Mexico",
+        "New Mexico": "NM"
     },
     {
-        "New York": "New York",
-        "New York_abbreviation": "NY"
+        "State": "New York",
+        "New York": "NY"
     },
     {
-        "North Carolina": "North Carolina",
-        "North Carolina_abbreviation": "NC"
+        "State": "North Carolina",
+        "North Carolina": "NC"
     },
     {
-        "North Dakota": "North Dakota",
-        "North Dakota_abbreviation": "ND"
+        "State": "North Dakota",
+        "North Dakota": "ND"
     },
     {
-        "Northern Mariana Islands": "Northern Mariana Islands",
-        "Northern Mariana Islands_abbreviation": "MP"
+        "State": "Northern Mariana Islands",
+        "Northern Mariana Islands": "MP"
     },
     {
-        "Ohio": "Ohio",
-        "Ohio_abbreviation": "OH"
+        "State": "Ohio",
+        "Ohio": "OH"
     },
     {
-        "Oklahoma": "Oklahoma",
-        "Oklahoma_abbreviation": "OK"
+        "State": "Oklahoma",
+        "Oklahoma": "OK"
     },
     {
-        "Oregon": "Oregon",
-        "Oregon_abbreviation": "OR"
+        "State": "Oregon",
+        "Oregon": "OR"
     },
     {
-        "Palau": "Palau",
-        "Palau_abbreviation": "PW"
+        "State": "Palau",
+        "Palau": "PW"
     },
     {
-        "Pennsylvania": "Pennsylvania",
-        "Pennsylvania_abbreviation": "PA"
+        "State": "Pennsylvania",
+        "Pennsylvania": "PA"
     },
     {
-        "Puerto Rico": "Puerto Rico",
-        "Puerto Rico_abbreviation": "PR"
+        "State": "Puerto Rico",
+        "Puerto Rico": "PR"
     },
     {
-        "Rhode Island": "Rhode Island",
-        "Rhode Island_abbreviation": "RI"
+        "State": "Rhode Island",
+        "Rhode Island": "RI"
     },
     {
-        "South Carolina": "South Carolina",
-        "South Carolina_abbreviation": "SC"
+        "State": "South Carolina",
+        "South Carolina": "SC"
     },
     {
-        "South Dakota": "South Dakota",
-        "South Dakota_abbreviation": "SD"
+        "State": "South Dakota",
+        "South Dakota": "SD"
     },
     {
-        "Tennessee": "Tennessee",
-        "Tennessee_abbreviation": "TN"
+        "State": "Tennessee",
+        "Tennessee": "TN"
     },
     {
         "Texas": "Texas",
         "Texas_abbreviation": "TX"
     },
     {
-        "Utah": "Utah",
-        "Utah_abbreviation": "UT"
+        "State": "Utah",
+        "Utah": "UT"
     },
     {
-        "Vermont": "Vermont",
-        "Vermont_abbreviation": "VT"
+        "State": "Vermont",
+        "Vermont": "VT"
     },
     {
-        "Virgin Islands": "Virgin Islands",
-        "Virgin Islands_abbreviation": "VI"
+        "State": "Virgin Islands",
+        "Virgin Islands": "VI"
     },
     {
-        "Virginia": "Virginia",
-        "Virginia_abbreviation": "VA"
+        "State": "Virginia",
+        "Virginia": "VA"
     },
     {
-        "Washington": "Washington",
-        "Washington_abbreviation": "WA"
+        "State": "Washington",
+        "Washington": "WA"
     },
     {
-        "West Virginia": "West Virginia",
-        "West Virginia_abbreviation": "WV"
+        "State": "West Virginia",
+        "West Virginia": "WV"
     },
     {
-        "Wisconsin": "Wisconsin",
-        "Wisconsin_abbreviation": "WI"
+        "State": "Wisconsin",
+        "Wisconsin": "WI"
     },
     {
-        "Wyoming": "Wyoming",
-        "Wyoming_abbreviation": "WY"
+        "State": "Wyoming",
+        "Wyoming": "WY"
     }
 ]
