@@ -1,15 +1,15 @@
 [
     {
         "State": "Alabama",
-        "state": "AL"
+        "state_id": "AL"
     },
     {
         "State": "Alaska",
-        "state": "AK"
+        "state_id": "AK"
     },
     {
         "State": "American Samoa",
-        "state": "AS"
+        "state_id": "AS"
     },
     {
         "State": "Arizona",
