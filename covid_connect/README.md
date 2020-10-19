@@ -1,5 +1,4 @@
 # CovidConnect
----
  
 ### `Objective`
 <ul>
@@ -24,7 +23,6 @@
   <h2><li><a href="https://covid-connect-fjyhulpdy.vercel.app/" target="_blank"> Covid Connect</a></li></h2>
   
 
- ___
  # Performance test so far
  
 ![](performance_test.gif)
