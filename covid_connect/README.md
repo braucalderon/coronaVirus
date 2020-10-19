@@ -20,10 +20,10 @@
     <li>The application is not uptimized for mobile devices yet.</li>
 </ul>
 
+
   ## Website
   <h2><li><a href="https://covid-connect-fjyhulpdy.vercel.app/" target="_blank"> Covid Connect</a></li></h2>
   
-
 
  ___
  # Performance test so far
