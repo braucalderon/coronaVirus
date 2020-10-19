@@ -238,5 +238,9 @@
     {
         "State": "Alaska",
         "state_id": "AK"
+    },
+    {
+        "State": "New York City",
+        "state_id": "NYC"
     }
 ]
