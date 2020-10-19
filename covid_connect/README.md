@@ -16,12 +16,12 @@
 </ul>
  
  ### `Note`
- <ul>
+ 
   <li>As the website is being developed so the link will be updated.<li>
   
- </ul>
+
 
  ___
- <ul>Performance test so far</ul>
+ # Performance test so far
  
 ![](performance_test.gif)
