@@ -7,7 +7,7 @@
 
 ### `Implementation`
 <ul>
-    <li>Class components are being implemented in the development.</li>
+    <li>Class components</li>
   <li>Hooks will be implemented later on</li>
   <li>JSON format</li>
 </ul>
