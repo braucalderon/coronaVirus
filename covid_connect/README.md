@@ -16,15 +16,20 @@
 </ul>
  
  ### `Note`
- <ul>
+ 
   <li>As the website is being developed so the link will be updated.<li>
 </ul>
 
   ## Website
   <h2><li><a href="https://covid-connect-fjyhulpdy.vercel.app/" target="_blank"> Play the Game Here</a></li></h2>
   
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> e92ed0aecc6e72e5cd886aa09f538bbf84a2d89f
 
  ___
- <ul>Performance test so far</ul>
- ![performance_test.gif]
+ # Performance test so far
+ 
+![](performance_test.gif)
