@@ -242,5 +242,9 @@
     {
         "State": "New York City",
         "state_id": "NYC"
+    },
+    {
+        "State": "Republic of the Marshall Islands",
+        "state_id": "RIM"
     }
 ]
