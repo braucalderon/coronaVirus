@@ -23,4 +23,4 @@
 
  ___
  <ul>Performance test so far</ul>
- ![performance_test.gif]
+ ![](performance_test.gif)
