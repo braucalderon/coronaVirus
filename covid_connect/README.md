@@ -21,13 +21,9 @@
 </ul>
 
   ## Website
-  <h2><li><a href="https://covid-connect-fjyhulpdy.vercel.app/" target="_blank"> Play the Game Here</a></li></h2>
+  <h2><li><a href="https://covid-connect-fjyhulpdy.vercel.app/" target="_blank"> Covid COnnect</a></li></h2>
   
-<<<<<<< HEAD
- 
-=======
 
->>>>>>> e92ed0aecc6e72e5cd886aa09f538bbf84a2d89f
 
  ___
  # Performance test so far
