@@ -18,8 +18,12 @@
  ### `Note`
  <ul>
   <li>As the website is being developed so the link will be updated.<li>
+</ul>
+
+  ## Website
+  <h2><li><a href="https://covid-connect-fjyhulpdy.vercel.app/" target="_blank"> Play the Game Here</a></li></h2>
   
- </ul>
+ 
 
  ___
  <ul>Performance test so far</ul>
