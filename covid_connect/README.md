@@ -5,7 +5,7 @@
  <li>To provide data easy to understand wihtout overwheeling the user</li>
 </ul>
 
-## `Implementation`
+### `Implementation`
 <ul>
     <li>Class components are being implemented in the development.</li>
   <li>Hooks will be implemented later on</li>
