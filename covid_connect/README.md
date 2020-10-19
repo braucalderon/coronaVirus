@@ -21,7 +21,7 @@
 </ul>
 
   ## Website
-  <h2><li><a href="https://covid-connect-fjyhulpdy.vercel.app/" target="_blank"> Covid COnnect</a></li></h2>
+  <h2><li><a href="https://covid-connect-fjyhulpdy.vercel.app/" target="_blank"> Covid Connect</a></li></h2>
   
 
 
