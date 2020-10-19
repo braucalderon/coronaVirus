@@ -16,8 +16,8 @@
 </ul>
  
  ### `Note`
- 
-  <li>As the website is being developed so the link will be updated. The application is not uptimize for mobile devices yet.<li>
+ <ul>
+    <li>The application is not uptimized for mobile devices yet.</li>
 </ul>
 
   ## Website
