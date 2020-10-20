@@ -26,7 +26,7 @@
 
 
   ## Website
-  <h2><li><a href="https://covid-connect-fjyhulpdy.vercel.app/" target="_blank"> Covid Connect</a></li></h2>
+  <h2><li><a href="https://covid-connect-knfm49wq1.vercel.app/" target="_blank"> Covid Connect</a></li></h2>
   
 
  # Performance test so far
