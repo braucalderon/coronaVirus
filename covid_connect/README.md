@@ -2,7 +2,7 @@
  
 ### `Objective`
 <ul>
- <li>To provide data easy to understand wihtout overwheeling the user</li>
+ <li>To provide data, easy to understand wihtout overwheeling the user</li>
 </ul>
 
 ### `Implementation`
@@ -15,7 +15,7 @@
 
 ### `Challenges`
 <ul>
-    <li>As I get more familiar with components in react and the manipulation of API's. I wanted to develop a website using real data. The struggles from fetching too much data to fetch the necessary it has been taking more of the time as I wanted to keep performance to the max.</li>
+    <li>As I get more familiar with components in react and the manipulation of API's. I wanted to develop a website using real data. The struggles from fetching too much data to fetch the necessary data have been taking more of the time as I wanted to keep performance to the max.</li>
 
 </ul>
  
