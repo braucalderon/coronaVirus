@@ -3,7 +3,7 @@
 ### `Objective`
 <ul>
  <li>To provide data, easy to understand wihtout overwheeling the user</li>
-<li>Automatic updated from APIs</li>
+<li>Automatic updates from APIs</li>
 </ul>
 
 ### `Implementation`
