@@ -3,26 +3,29 @@
 ### `Objective`
 <ul>
  <li>To provide data, easy to understand wihtout overwheeling the user</li>
+<li>Automatic updated from APIs</li>
 </ul>
 
 ### `Implementation`
 <ul>
     <li>Class components</li>
-   <li>Graphs</li>
+   <li>Graphs using Chart JS</li>
    <li>JSON format</li>
-    <li>props history</li>
+    <li>Material UI</li>
+    <li>Props history</li>
+    
 </ul>
  
 
 ### `Challenges`
 <ul>
-    <li>As I get more familiar with components in react and the manipulation of API's. I wanted to develop a website using real data. The struggles from fetching too much data to fetch the necessary data have been taking more of the time as I wanted to keep performance to the max, even in accessing the site in mobiles</li>
+    <li>As I get more familiar with components in react and the manipulation of API's. I wanted to develop a website using real data. The struggles from fetching too much data to fetch the necessary data have been taking more of the time as I wanted to keep performance to the max, even in mobiles.</li>
 
 </ul>
  
  ### `Note`
  <ul>
-    <li>The application is not uptimized for mobile devices yet and not finish yet.</li>
+    <li>The website is fully optomized for mobiles.</li>
 </ul>
 
 
