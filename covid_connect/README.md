@@ -20,6 +20,8 @@
 ### `Challenges`
 <ul>
     <li>As I get more familiar with components in react and the manipulation of API's. I wanted to develop a website using real data. The struggles from fetching too much data to fetch the necessary data have been taking more of the time as I wanted to keep performance to the max, even in mobiles.</li>
+    <li>The application updates data two days back from the current day, because of the way data is updated in the server.</li>
+    <li>Still fixing bugs and issues with the automatic update system to collect the right data.</li>
 
 </ul>
  
