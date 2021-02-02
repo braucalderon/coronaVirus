@@ -2,9 +2,9 @@
  
 ### `Objective`
 <ul>
- <li>Data easy to understand wihtout overwheeling the user</li>
-<li>Automatic updates from the API server</li>
-<li>Easy to access and navigate from a desktop to a mobile device</li>
+ <li>Data easy to understand wihtout overwheeling the user.</li>
+<li>Automatic updates from the API server.</li>
+<li>Easy to access and navigate from a desktop to a mobile device.</li>
 </ul>
 
 ### `Implementation`
