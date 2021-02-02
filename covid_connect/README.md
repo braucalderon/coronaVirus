@@ -21,8 +21,8 @@
 <ul>
     <li>As I get more familiar with components in react and the manipulation of API's. I wanted to develop a website using real data. The struggles from fetching too much data to fetch the necessary data have been taking more of the time as I wanted to keep performance to the max, even in mobiles.</li>
     <li>The application updates data two days back from the current day, because of the way data is updated in the server.</li>
-    <li>New Year's issue: the system stopped updating data after December 31st. However, the issue was fixed by pinpoint the piece of code that was broken and testing different scenarios.</li>
-    <li>The code was created with error messages that direct me straight to the source of the problem, in other words to the component that was having the issue.</li>
+    <li>The automatic updating feature has been the most challenging issue for this project. As the website breaks down due to the automatic feature; a new logic is tested to bring it back online. However, as new issues come along the way so the learning.</li>
+    <li>The code was created with error messages that direct the developer to the source of the problem on the component that failed.</li>
 
 </ul>
  
@@ -33,5 +33,6 @@
 
 
   ## Website
-  <h2><li><a href="https://covid-connect-git-main.braucalderon.vercel.app/" target="_blank">Click Here Covid Connect</a></li></h2>
+
+  <h2><li><a href="https://covid-connect-git-main.braucalderon.vercel.app/" target="_blank"> Click Here Covid Connect</a></li></h2>
   
