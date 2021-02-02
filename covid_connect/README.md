@@ -10,7 +10,7 @@
 ### `Implementation`
 <ul>
     <li>Class components</li>
-   <li>Graphs using Chart JS</li>
+   <li>Chart JS</li>
    <li>JSON format</li>
     <li>Material UI</li>
     <li>Props history</li>
