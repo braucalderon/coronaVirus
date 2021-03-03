@@ -25,12 +25,7 @@
     <li>The automatic updating feature has been the most challenging issue for this project. As the website breaks down due to the automatic feature; a new logic is tested to bring it back online. However, as new issues come along the way so the learning.</li>
     <li>The code was created with error messages that direct the developer to the source of the problem on the component that failed.</li>
 
-</ul>
- 
- ### `Note`
- <ul>
-    <li>The website is fully optomized for mobiles.</li>
-</ul>
+</ul> 
 
 
   ## Website
