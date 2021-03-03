@@ -23,7 +23,7 @@
     <li>As I get more familiar with components in react and the manipulation of APIs. I wanted to develop a website using real data. The struggles from fetching too much data to fetch the necessary data have been taking more of the time as I wanted to keep performance to the max, even in mobiles.</li>
     <li>The application updates data two days back from the current day, because of the way data is updated in the server.</li>
     <li>The automatic updating feature has been the most challenging issue for this project. As the website breaks down due to the automatic feature; a new logic is tested to bring it back online. However, as new issues come along the way so the learning.</li>
-    <li>The code was created with error messages that direct the developer to the source of the problem on the component that failed.</li>
+    <li>The component architecture</li>
 
 </ul>
  
