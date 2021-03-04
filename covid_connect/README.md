@@ -25,7 +25,7 @@
     <li>The automatic updating feature has been the most challenging issue for this project. As the website breaks down due to the automatic feature; a new logic is tested to bring it back online. However, as new issues come along the way so the learning.</li>
     <li>The component architecture</li>
 
-</ul>
+
 ### `Files`
 <lu>
     <li>The architecture of the States.jsx and Statistics.jsx is not executed with the precision to be an efficient component.</li>
@@ -33,7 +33,7 @@
 </lu>
 
 
-  ## Website
+## Website
 
   <h2><li><a href="https://covid-connect-git-main.braucalderon.vercel.app/" target="_blank"> Click Here Covid Connect</a></li></h2>
   
