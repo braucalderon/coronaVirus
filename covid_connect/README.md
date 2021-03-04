@@ -2,7 +2,7 @@
  
 ### `Objective`
 <ul>
- <li>Data easy to understand wihtout overwheeling the user.</li>
+ <li>Data easy to understand without overwhelming the user.</li>
 <li>Automatic updates from the API server.</li>
 <li>Easy to access and navigate from a desktop to a mobile device.</li>
 </ul>
@@ -26,11 +26,11 @@
     <li>The component architecture</li>
 
 </ul>
- 
- ### `Note`
- <ul>
-    <li>The website is fully optomized for mobiles.</li>
-</ul>
+### `Files`
+<lu>
+    <li>The architecture of the States.jsx and Statistics.jsx is not executed with the precision to be an efficient component.</li>
+   <li>The automatic systems breaks down at the end of each month.</li>
+</lu>
 
 
   ## Website
