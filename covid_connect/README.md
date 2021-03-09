@@ -26,7 +26,6 @@
     <li>The component architecture was another learned lesson for this project.</li>
  </u>
 
-
 ### `Files`
 <lu>
     <li>The architecture of the States.jsx and Statistics.jsx are not executed with the precision to be efficient components.</li>
