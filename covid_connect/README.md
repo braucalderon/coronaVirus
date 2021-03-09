@@ -24,6 +24,7 @@
     <li>The application updates data two days back from the current day because of the way data is updated in the server.</li>
     <li>The automatic update has been the most challenging taks for this project, as it breaks down at the end of each month.</li>
     <li>The component architecture was another learned lesson for this project.</li>
+ </u>
 
 
 ### `Files`
