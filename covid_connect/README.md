@@ -20,16 +20,16 @@
 
 ### `Challenges`
 <ul>
-    <li>As I get more familiar with components in react and the manipulation of APIs. I wanted to develop a website using real data. The struggles from fetching too much data to fetch the necessary data have been taking more of the time as I wanted to keep performance to the max, even in mobiles.</li>
-    <li>The application updates data two days back from the current day, because of the way data is updated in the server.</li>
-    <li>The automatic updating feature has been the most challenging issue for this project. As the website breaks down due to the automatic feature; a new logic is tested to bring it back online. However, as new issues come along the way so the learning.</li>
-    <li>The component architecture</li>
+    <li>As I get more familiar with components in react and the manipulation of APIs. I wanted to develop a website using real data. The struggles from fetching too much data to fetch the necessary data have been taking more of the time as I wanted to keep a good performance.</li>
+    <li>The application updates data two days back from the current day because of the way data is updated in the server.</li>
+    <li>The automatic update has been the most challenging taks for this project, as it breaks down at the end of each month.</li>
+    <li>The component architecture was another learned lesson for this project.</li>
 
 
 ### `Files`
 <lu>
-    <li>The architecture of the States.jsx and Statistics.jsx is not executed with the precision to be an efficient component.</li>
-   <li>The automatic systems breaks down at the end of each month.</li>
+    <li>The architecture of the States.jsx and Statistics.jsx are not executed with the precision to be efficient components.</li>
+   
 </lu>
 
 
