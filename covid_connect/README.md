@@ -1,4 +1,4 @@
-# CovidConnect
+# CovidConnect Web Application
  
 ### `Objective`
 <ul>
@@ -22,12 +22,12 @@
 <ul>
     <li>As I get more familiar with components in react and the manipulation of APIs. I wanted to develop a website using real data. The struggles from fetching too much data to fetch the necessary data have been taking more of the time as I wanted to keep a good performance.</li>
     <li>The application updates data two days back from the current day because of the way data is updated in the server.</li>
-    <li>The automatic update has been the most challenging tasks for this project, as it breaks down at the end of each month.</li>
-    <li>The component architecture was another learned lesson for this project.</li>
+    <li>The automatic update has been the most challenging task for this project, as it breaks down at the end of each month.</li>
+    <li>The architecture has been challenging to implement in few components throughout the application.</li>
 </ul>
 
 
-## Website
+## CovidConnect
 
-  <h2><li><a href="https://covid-connect-git-main.braucalderon.vercel.app/" target="_blank"> Click Here Covid Connect</a></li></h2>
+  <h2><a href="https://covid-connect-git-main.braucalderon.vercel.app/" target="_blank">Check me Out Here too</a></h2>
   
