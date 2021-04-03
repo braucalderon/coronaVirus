@@ -20,7 +20,7 @@
 <ul>
     <li>The application updates data two days back from the current day because of the way data is updated in the server.</li>
     <li>The automatic update has been the most challenging task for this project, as it breaks down at the end of each month.</li>
-    <li>The architecture has been challenging to implement in few components throughout the application.</li>
+    <li>The component architecture.</li>
 </ul>
 
 
